@@ -114,6 +114,43 @@ From Kerala, India 🇮🇳
 
 <br/><br/>
 
+<details>
+<summary><b>₿ Support with Crypto</b></summary>
+<br/>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="BTC" /><br/>
+<b>BNB Smart Chain</b><br/><br/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x264B265F1EcA4fa4BC4Dcf929189eB4A7a6e8070" alt="BTC QR" /><br/>
+<code>0x264B265F1EcA4fa4BC4Dcf929189eB4A7a6e8070</code>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="ETH" /><br/>
+<b>Base Network</b><br/><br/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x264B265F1EcA4fa4BC4Dcf929189eB4A7a6e8070" alt="ETH QR" /><br/>
+<code>0x264B265F1EcA4fa4BC4Dcf929189eB4A7a6e8070</code>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/BNB-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="BNB" /><br/>
+<b>BNB Smart Chain</b><br/><br/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x264B265F1EcA4fa4BC4Dcf929189eB4A7a6e8070" alt="BNB QR" /><br/>
+<code>0x264B265F1EcA4fa4BC4Dcf929189eB4A7a6e8070</code>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/USDT-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT" /><br/>
+<b>TRC-20</b><br/><br/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=TDLzr6acanUKkUAT6c5xutqo8fo1VSRevy" alt="USDT QR" /><br/>
+<code>TDLzr6acanUKkUAT6c5xutqo8fo1VSRevy</code>
+</td>
+</tr>
+</table>
+</details>
+
+<br/>
+
 *🤨 One ending game*
 
 </div>
