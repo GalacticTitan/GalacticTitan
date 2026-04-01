@@ -31,7 +31,7 @@ From Kerala, India 🇮🇳
 <a href="https://github.com/Ikolvi/Tracelet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikolvi&repo=Tracelet&theme=tokyonight&hide_border=true" alt="Tracelet" /></a>
 <a href="https://github.com/Ikolvi/Titan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikolvi&repo=Titan&theme=tokyonight&hide_border=true" alt="Titan" /></a>
 <a href="https://github.com/Ikolvi/callbundle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikolvi&repo=callbundle&theme=tokyonight&hide_border=true" alt="CallBundle" /></a>
-<a href="https://www.youtube.com/@DoWonderStudio"><img src="https://img.shields.io/badge/🎬_DoWonder_Studio-3D_Art_|_VFX_|_Animation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DoWonder Studio" /></a>
+<a href="https://www.youtube.com/@DoWonderStudio"><img src="https://img.shields.io/badge/🎬_DoWonder_Studio-3D_Art_%7C_VFX_%7C_Animation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DoWonder Studio" /></a>
 </div>
 
 <details>
@@ -62,7 +62,7 @@ From Kerala, India 🇮🇳
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GalacticTitan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GalacticTitan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+<img src="https://streak-stats.demolab.com/?user=GalacticTitan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
