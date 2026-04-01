@@ -121,9 +121,9 @@ From Kerala, India 🇮🇳
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="BTC" /><br/>
-<b>BNB Smart Chain</b><br/><br/>
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x264B265F1EcA4fa4BC4Dcf929189eB4A7a6e8070" alt="BTC QR" /><br/>
-<code>0x264B265F1EcA4fa4BC4Dcf929189eB4A7a6e8070</code>
+<b>BEP-20</b><br/><br/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x0cbfd89d177c85b00b05bf8f5eb73521094a5536" alt="BTC QR" /><br/>
+<code>0x0cbfd89d177c85b00b05bf8f5eb73521094a5536</code>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="ETH" /><br/>
