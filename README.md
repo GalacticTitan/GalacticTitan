@@ -1,0 +1,116 @@
+<div align="center">
+
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI+Commander+%7C+AI+VFX+%7C+AI+Gaming;Building+Open-Source+Flutter+Infrastructure" alt="Typing SVG" /></a>
+
+<!-- Bio -->
+<p>
+Founder of <a href="https://github.com/Ikolvi"><b>Ikolvi</b></a> — building production-grade open-source Flutter infrastructure.<br/>
+9+ years shipping mobile apps (Android, iOS, Web). Co-Founder at <b>KRMR Solutions</b>.<br/>
+Creator of <a href="https://www.youtube.com/@DoWonderStudio"><b>DoWonder Studio</b></a> (3D Art / VFX). Previously SDE-3 at Bijak.<br/>
+From Kerala, India 🇮🇳
+</p>
+
+<!-- Social Badges -->
+<p>
+<a href="https://github.com/GalacticTitan"><img src="https://img.shields.io/badge/GitHub-GalacticTitan-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/k-b-j/"><img src="https://img.shields.io/badge/LinkedIn-k--b--j-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://medium.com/@kiranbjm"><img src="https://img.shields.io/badge/Medium-@kiranbjm-000000?style=for-the-badge&logo=medium" alt="Medium" /></a>
+<a href="https://www.youtube.com/@DoWonderStudio"><img src="https://img.shields.io/badge/YouTube-DoWonderStudio-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
+<a href="https://www.instagram.com/kiran_bjm/"><img src="https://img.shields.io/badge/Instagram-kiran__bjm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://buymeacoffee.com/kiranbjm"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-kiranbjm-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</p>
+
+</div>
+
+---
+
+## ⭐ Featured Projects
+
+<div align="center">
+<a href="https://github.com/Ikolvi/Tracelet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikolvi&repo=Tracelet&theme=tokyonight&hide_border=true" alt="Tracelet" /></a>
+<a href="https://github.com/Ikolvi/Titan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikolvi&repo=Titan&theme=tokyonight&hide_border=true" alt="Titan" /></a>
+<a href="https://github.com/Ikolvi/callbundle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikolvi&repo=callbundle&theme=tokyonight&hide_border=true" alt="CallBundle" /></a>
+<a href="https://www.youtube.com/@DoWonderStudio"><img src="https://img.shields.io/badge/🎬_DoWonder_Studio-3D_Art_|_VFX_|_Animation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DoWonder Studio" /></a>
+</div>
+
+<details>
+<summary><b>📌 More Projects</b></summary>
+<br/>
+
+| Project | Description |
+|---------|-------------|
+| [QuicUI](https://github.com/Ikolvi/QuicUI) | Server-driven UI framework for Flutter — JSON-to-native rendering, 70+ widgets |
+| [TitanForge](https://github.com/Ikolvi/TitanForge) | VS Code extension bridging AI assistants and running Flutter apps via MCP tools |
+| [NodeCo](https://github.com/Ikolvi/NodeCo) | AI-friendly binary programming language built in Rust |
+| [xlsxparser](https://github.com/GalacticTitan/xlsxparser) | Android Excel streaming reader library (⭐ 5) |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,swift,java,ts,python,rust,cpp&theme=dark" alt="Languages" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,git,githubactions,vscode,godot,docker,sqlite,postgres&theme=dark" alt="Tools & Platforms" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GalacticTitan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GalacticTitan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalacticTitan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css,cmake" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GalacticTitan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 🏢 Career Journey
+
+```
+🏛️ 2025–Present   Founder @ Ikolvi — Tracelet, Titan, QuicUI, CallBundle
+🎬 2023–Present   Founder @ DoWonder Studio — 3D Art, VFX, Animation
+🤝 2024–Present   Co-Founder @ KRMR Solutions
+💼 2024            SDE-3 @ Bijak
+💼 2021–2024      SDE-2 @ Bijak
+📱 2020–2021      Flutter / Android / Node.js Dev @ Inmenzo Technologies
+📱 2018–2020      Flutter / Android Dev @ Feathersoft
+📱 2016–2018      Android Developer @ Inmenzo Technologies
+🎓                B.E. Electronics & Communication
+```
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+🌟 **Starstruck** · 👥 **Pair Extraordinaire** · 🦈 **Pull Shark x3** · ⚡ **Quickdraw** · 🤠 **YOLO** · 🧊 **Arctic Code Vault Contributor**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=GalacticTitan&style=for-the-badge&color=58A6FF" alt="Profile Views" />
+
+<br/><br/>
+
+<a href="https://buymeacoffee.com/kiranbjm"><img src="https://img.shields.io/badge/☕_Support_My_Work-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+
+<br/><br/>
+
+*🤨 One ending game*
+
+</div>
