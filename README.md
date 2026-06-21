@@ -54,7 +54,7 @@ From Kerala, India 🇮🇳
 <div align="center">
 <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,swift,java,ts,python,rust,cpp&theme=dark" alt="Languages" /><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,git,githubactions,vscode,godot,docker,sqlite,postgres&theme=dark" alt="Tools & Platforms" /><br/>
-<img src="https://skillicons.dev/icons?i=unreal,blender,ae,pr,ps&theme=dark" alt="Creative Tools" />
+<img src="https://skillicons.dev/icons?i=unreal,blender,ps&theme=dark" alt="Creative Tools" />
 <img src="https://img.shields.io/badge/Substance_Painter-1A1A1A?style=for-the-badge&logo=adobe&logoColor=white" alt="Substance Painter" />
 <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
 </div>
