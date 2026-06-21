@@ -6,7 +6,7 @@
 <!-- Bio -->
 <p>
 Founder of <a href="https://github.com/Ikolvi"><b>Ikolvi</b></a> — building production-grade open-source Flutter infrastructure.<br/>
-9+ years shipping mobile apps (Android, iOS, Web). Co-Founder at <b>KRMR Solutions</b>.<br/>
+10+ years shipping mobile apps (Android, iOS, Web). Co-Founder at <b>KRMR Solutions</b>.<br/>
 Creator of <a href="https://www.youtube.com/@DoWonderStudio"><b>DoWonder Studio</b></a> (3D Art / VFX). Previously SDE-3 at Bijak.<br/>
 From Kerala, India 🇮🇳
 </p>
